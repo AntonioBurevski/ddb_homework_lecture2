@@ -1,5 +1,7 @@
-USE master
+
 CREATE DATABASE Karavan_4223
+
+USE Karavan_4223
 
 CREATE TABLE dbo.KADMINISTRATOR
 (
